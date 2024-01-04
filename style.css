@@ -1,0 +1,53 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px 0 50px;
+
+}
+#salad{
+    margin-top: 24px;
+}
+#back{
+    background-image: url("./image/back.jpg");
+    color: #fff;
+    text-align: center;
+    padding: 120px 0;
+    font-size: xx-large;
+}
+#new{
+    background-color: blue;
+    padding: 40px;
+    color: antiquewhite;
+    font-size: 2em;
+   text-align: center;
+}
+#inp{
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(14, 41, 152);
+    font-weight: bold;
+}
+button{
+    padding: 8px 15px;
+    background-color: aqua;
+    border-radius: 5px;
+    color: rgb(134, 90, 31);
+}
+.image{
+    border-radius: 10px 10px 0px 0px;
+    
+}
+
+.card{
+    width: 18rem;
+    border: solid black 1px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+#showCase{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+background-color: rgb(236, 235, 233);
+}
