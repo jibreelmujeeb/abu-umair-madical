@@ -51,6 +51,19 @@ button{
     justify-content: space-between;
 background-color: rgb(236, 235, 233);
 }
+
+.about{
+    text-align: center;
+}
+
+#foot{
+    margin: 50;
+}
+
+
+
+
+
 @media screen and (max-width:600px) {
     #showCase{
         display: block;
@@ -65,5 +78,8 @@ background-color: rgb(236, 235, 233);
     }
     .head{
         margin: 0 25px 0 25px;
+    }
+    #foot{
+        margin-top: 230px;
     }
 }
