@@ -77,7 +77,7 @@ background-color: rgb(236, 235, 233);
         border-radius: 10px;
     }
     .head{
-        margin: 0 15px 0 15px;
+        margin: 0 15px 0 0;
     }
     #foot{
         margin-top: 300px;
