@@ -57,7 +57,7 @@ background-color: rgb(236, 235, 233);
 }
 
 #foot{
-    margin: 50;
+    text-align: center;
 }
 
 
@@ -80,6 +80,7 @@ background-color: rgb(236, 235, 233);
         margin: 0 15px 0 0;
     }
     #foot{
-        margin-top: 300px;
+        margin-top: 250px;
     }
+
 }
