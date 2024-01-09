@@ -102,10 +102,13 @@ padding: 40px;
         border-radius: 10px;
     }
     .head{
-        margin: 0 15px 0 0;
+        margin: 0 5px 0 0;
     }
     #foot{
-        margin-top: 250px;
+        margin-top: 200px;
+    }
+    .date{
+        padding: 50px;
     }
 
 }
