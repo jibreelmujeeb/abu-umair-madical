@@ -1,7 +1,7 @@
 .head{
     display: flex;
-    justify-content: space-between;
-    margin: 0 100px 0 50px;
+    gap: 650px;
+       margin: 0 100px 0 50px;
 
 }
 #salad{
@@ -102,7 +102,9 @@ padding: 40px;
         border-radius: 10px;
     }
     .head{
-        margin: 0 5px 0 0;
+        display: flex;
+       gap: 0px;
+       margin: 0;
     }
     #foot{
         margin-top: 200px;
